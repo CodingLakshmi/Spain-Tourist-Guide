@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+  color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+p {
+  margin-inline-start: 100px;
+  margin-inline-end: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+td {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#Header {
+  height: 740px;
+  background-color: black;
+}
+
+#pTag {
+  color: white;
+  text-align: center;
+  font-size: 17px;
+}
+
+#header {
+  text-align: center;
+}
+
+#box1 {
+  height: 800px;
+  background-color: #baebff;
+}
+
+#box2 {
+  height: 900%;
+  background-color: #bbdbfe;
+}
+
+#box3 {
+  height: 300px;
+  background-color: #bccbfd;
+}
+
+#box4 {
+  height: 600%;
+  background-color: #bebcfc;
+}
+
+#box5 {
+  height: 900px;
+  background-color: #bfacfb;
+}
+
+#box6 {
+  height: 500%;
+  background-color: #c09cfa;
+}
+
+#table {
+  margin-inline-start: 100px;
+  margin-inline-end: 100px;
+}
+
+#tdPTag {
+  position: relative;
+  left: 30px;
+}
+
+.flag {
+  margin-inline-start: 100px;
+  margin-inline-end: 100px;
+}
+
+.madridImg {
+  height: 300px;
+  width: 500px;
+  left: 20px;
+}
+
+.barcelonaImg {
+  height: 300px;
+  width: 500px;
+}
+
+.sevilleImg {
+  height: 300px;
+  width: 500px;
+}
+
+.valenciaImg {
+  height: 300px;
+  width: 500px;
+}
+
+.malloraImg {
+  height: 300px;
+  width: 500px;
+}
+
+.rondaImg {
+  height: 300px;
+  width: 500px;
+}
+
+.laRiojImg {
+  height: 300px;
+  width: 500px;
+}
+
+.corbadaImg {
+  height: 300px;
+  width: 500px;
+}
+
+.sanDebastianImg {
+  height: 300px;
+  width: 500px;
+}
+
+.granadaImg {
+  height: 300px;
+  width: 500px;
+}
+
+#GazpachoImg {
+  margin-inline-start: 100px;
+  height: 300px;
+  width: 400px;
+}
+
+#PaellaImg {
+  height: 300px;
+  width: 400px;
+}
+
+#TortillaImg {
+  height: 300px;
+  width: 400px;
+}
+
+#GambasImg {
+  margin-inline-start: 100px;
+  height: 300px;
+  width: 400px;
+}
+
+#TostasImg {
+  height: 300px;
+  width: 400px;
+}
+
+#PatatasImg {
+  height: 300px;
+  width: 400px;
+}
+
+#bullfightingImg {
+  margin-inline-start: 100px;
+  height: 330px;
+  width: 600px;
+}
+
+#soccerImg {
+  margin-left: 50px;
+  margin-inline-end: 100px;
+  height: 330px;
+  width: 600px;
+}
+
+#map {
+  margin-inline-start: 100px;
+  height: 400px;
+  width: 450px;
+}
+
+#Spanish {
+  margin-inline-start: 100px;
+  height: 200px;
+  width: 450px; 
+}
+
+#pTag10 {
+  margin: 0;
+  margin-left: 20px;
+  margin-inline-end: 100px;
+}
